@@ -92,7 +92,7 @@ Analyzes salary trends by state, industry, company size, ownership type, revenue
 ## Skills Dashboard
 Highlights the most in-demand technical skills, skill demand across industries, states, seniority levels, and job titles.
 
-[![Skills Dashboard](Skills_Dashboard.png](https://1drv.ms/i/c/54cbeda012444387/IQC09AbSyQxZR4YikQd5789kATD6YLFo0hBURlSvW5ytsLQ?e=y5prVj)
+[![Skills Dashboard](Skills_Dashboard.png)](https://1drv.ms/i/c/54cbeda012444387/IQC09AbSyQxZR4YikQd5789kATD6YLFo0hBURlSvW5ytsLQ?e=7zxc2e)
 
 ---
 
